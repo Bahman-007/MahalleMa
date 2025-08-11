@@ -10,3 +10,4 @@ while True:
     except ValueError:
         print ("Error: Input is not a number! Please enter a number.")
 #END
+# This is a simple age checker program
