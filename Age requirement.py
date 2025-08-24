@@ -10,4 +10,6 @@ while True:
     except ValueError:
         print ("Error: Input is not a number! Please enter a number.")
 #END
-# This is a simple age checker program
+# سلام ، برنامه رو ساده نوشتم تا ببينم هر کدام از اعضاي تيم ، چه تغييرات اصلاحي رو پيشنهاد ميدن!
+# Version 1 - ارسال برای بررسی و تکميل برنامه
+
